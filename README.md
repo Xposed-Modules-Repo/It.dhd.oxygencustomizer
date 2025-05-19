@@ -1,7 +1,7 @@
 # Oxygen Customizer
 
 <div align="center">
-  <img src="banner.png" width="90%" alt="banner" />
+  <img src="https://github.com/Xposed-Modules-Repo/It.dhd.oxygencustomizer/blob/main/banner.png?raw=true" width="90%" alt="banner" />
 </div>
 <p align="center">
   <a href="https://github.com/DHD2280/Oxygen-Customizer/releases"><img src="https://img.shields.io/github/v/release/DHD2280/Oxygen-Customizer?style=for-the-badge&label=STABLE" alt="Stable"></a>
@@ -214,8 +214,8 @@ Oxygen Customizer is licensed under GPLv3. Please see [`LICENSE`](./LICENSE.md) 
 
 # ⭐ Donations
 
-[<img src="PayPal.svg"
+[<img src="https://github.com/Xposed-Modules-Repo/It.dhd.oxygencustomizer/blob/main/PayPal.svg?raw=true"
 alt='Donate with PayPal'
-height="80">](https://www.paypal/luigifale) [<img src="BMC.svg"
+height="80">](https://www.paypal/luigifale) [<img src="https://github.com/Xposed-Modules-Repo/It.dhd.oxygencustomizer/blob/main/BMC.svg?raw=true"
 alt='Donate with BMC'
 height="80">](https://www.buymeacoffee.com/DHD2280)
